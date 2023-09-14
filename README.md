@@ -16,7 +16,7 @@ This repository contains the HTML and CSS code for an article preview component.
 
 ### Usage
 
-1. Clone the repository: `git clone [repository URL]`
+1. Clone the repository: `git clone (https://github.com/Abidullah3786/3-column-preview-card-component/tree/main)`
 2. Open the `index.html` file in your web browser to see the component in action.
 3. Modify the code in the `style.css` file to match your design preferences.
 4. Customize the content and images as needed.
